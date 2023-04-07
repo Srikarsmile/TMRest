@@ -561,11 +561,12 @@ img{
     }
 }
 
-.nav__logo-img {
-  max-height: 100px;
+.nav__logo-img 
+{
+  max-height: 70px;
   width: auto;
   height: auto;
-  margin-top: 40px; /* Add this line to bring the logo down */
+  margin-top: 10px; /* Add this line to bring the logo down */
 }
 
 @media screen and (max-width: 768px) {
